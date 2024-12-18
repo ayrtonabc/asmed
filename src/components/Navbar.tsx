@@ -20,7 +20,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center">
-            <img src="./logo.png" alt="Logo As-Med" className="h-12" /> {/* Ajusta el tamaño de la imagen según sea necesario */}
+            <img src="/public/logo.png" alt="Logo As-Med" className="h-12" /> {/* Ajusta el tamaño de la imagen según sea necesario */}
           </div>
 
           {/* Desktop Navigation */}
