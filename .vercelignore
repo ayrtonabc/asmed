@@ -1,0 +1,11 @@
+# Ignorar node_modules y demás carpetas que no necesitas
+node_modules
+.git
+.env
+.DS_Store
+
+# No ignores archivos en la raíz (como imágenes)
+!*.png
+!*.jpg
+!*.gif
+!*.svg
