@@ -5,11 +5,11 @@
       "use": "@vercel/static"
     },
     {
-      "src": "*.jpg",
+      "src": "*.png",
       "use": "@vercel/static"
     },
     {
-      "src": "*.png",
+      "src": "*.jpg",
       "use": "@vercel/static"
     },
     {
@@ -36,3 +36,4 @@
     "VITE_SUPABASE_ANON_KEY": "@vite_supabase_anon_key"
   }
 }
+
