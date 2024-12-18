@@ -10,7 +10,7 @@ const AgeGroups = () => {
         
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <AgeGroupCard
-            image="./product/niños.jpeg"
+            image="/product/niños.jpeg"
             title="Dla Dzieci"
             description="Wygodne i kolorowe aparaty słuchowe, zaprojektowane z myślą o aktywnych dzieciach."
             features={[
@@ -22,7 +22,7 @@ const AgeGroups = () => {
           />
           
           <AgeGroupCard
-            image="./product/bicros.jpg"
+            image="/product/bicros.jpg"
             title="Dla Dorosłych"
             description="Nowoczesne i dyskretne aparaty, które wspierają aktywność zawodową i codzienne życie."
             features={[
@@ -34,7 +34,7 @@ const AgeGroups = () => {
           />
           
           <AgeGroupCard
-            image="./product/adul.png"
+            image="/product/adul.png"
             title="Dla Seniorów"
             description="Łatwe w obsłudze aparaty, które zwiększają komfort słuchu i zapewniają bezpieczeństwo."
             features={[

@@ -16,7 +16,7 @@ const Funding = () => {
         {/* NFZ Logo and Info */}
         <div className="flex flex-col items-center mb-12">
           <img 
-            src="/nfz-logo.png" 
+            src="/nfz.png" 
             alt="Logo NFZ" 
             className="h-24 mb-6"
           />

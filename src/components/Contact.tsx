@@ -50,7 +50,7 @@ const Contact = () => {
           <div className="space-y-6">
             <Card className="relative h-[400px] overflow-hidden">
               <img
-                src="./product/local.png"
+                src="/local.png"
                 alt="As-Med Gabinet"
                 className="w-full h-full object-cover"
               />
